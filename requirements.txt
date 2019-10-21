@@ -49,5 +49,5 @@ virtkey==0.63.0
 virtualenv==15.0.3
 virtualenv-clone==0.2.6
 virtualenvwrapper==4.7.2
-Werkzeug==0.11.11
+Werkzeug==0.15.3
 xkit==0.0.0
